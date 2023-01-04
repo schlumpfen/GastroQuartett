@@ -11,7 +11,7 @@ Kostenloser Kaffee zum Kuchen
 C: [Burg Beverungen](https://www.burg-beverungen.de/) \
 Ein Cocktail gratis
 
-D: [Café Heimisch](https://www.cafe-heimisch.de/)
+D: [Café Heimisch](https://www.cafe-heimisch.de/) \
 Gratis Kaffee zur Waffel
 
 ## 2
